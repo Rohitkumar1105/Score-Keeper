@@ -4,3 +4,5 @@ accordingly and never fight over what the score is.
 
 Just enter the number till which you want to count the score till. On gaining 1 point increase the point of that player using 
 the two buttons assigned for players 1 and 2. The person who reaches the winning point wins. 
+
+<img src="https://github.com/Rohitkumar1105/Score-Keeper/blob/master/scoreKeeper.png">
